@@ -1,0 +1,11 @@
+.headerSec
+{
+    background-image: url("./header.jpg");
+    background-position: 'center';
+    background-size: 'cover';
+    background-repeat: 'no-repeat';
+    color: white;
+    height: 600px;
+    width: 100%;
+    
+}

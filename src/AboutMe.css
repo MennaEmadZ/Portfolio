@@ -1,0 +1,12 @@
+#cardssec h1
+{
+    text-shadow: 5px 5px 5px grey;
+}
+.resume:link
+{
+    background-color: #3d3d3d;
+    color: white;
+    padding: 10px 20px;
+    margin: 30px 0px;
+    text-decoration: none;
+}

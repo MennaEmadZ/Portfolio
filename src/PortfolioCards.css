@@ -1,0 +1,11 @@
+.project
+{
+    /* #3d3d3d */
+    background-color:#959188 ;
+    height: 200px;
+    width: 350px;
+    margin: 20px;
+    padding-top: 40px;
+    color: white;
+    box-shadow: 9px 9px 9px gray;
+}

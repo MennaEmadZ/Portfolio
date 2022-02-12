@@ -1,0 +1,18 @@
+footer
+{
+    background-color: #3d3d3d;
+    color:white
+}
+footer a:link, a:visited{
+    text-decoration: none;
+    color:white;
+    padding:5px;
+
+}
+footer a:hover{
+    text-decoration: none;
+    color:white;
+    padding:5px;
+    text-shadow: 2px 2px 2px white;
+}
+

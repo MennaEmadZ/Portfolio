@@ -1,0 +1,18 @@
+.skills
+{
+    background-color: #3d3d3d;
+    color: white;
+    
+}
+.skills h1{
+    text-shadow: 5px 5px 5px black;
+}
+.hr
+{
+    background-color: white;
+    height: 2px;
+    width:50%;
+
+    margin: auto;
+    
+}

@@ -1,0 +1,13 @@
+.nav-item a:link, .nav-item a:active, .nav-item a:visited{
+    text-decoration: none;
+    color:black;
+}
+.navbar
+{
+    background-color: white;
+}
+.navbar-toggler
+{
+    color: black;
+    background-color: black;
+}
